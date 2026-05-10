@@ -1,20 +1,23 @@
 ### Desteklenen İşlemciler (CPU)
 
-- AMD Ryzen 3 3100
+**AM4 Platformu:**
 - AMD Ryzen 5 3600
 - AMD Ryzen 7 3700X
-- AMD Ryzen 9 3900X
-- AMD Ryzen 9 3950X
 - AMD Ryzen 3 4100
 - AMD Ryzen 5 4500
 - AMD Ryzen 5 5500
 - AMD Ryzen 5 5600
 - AMD Ryzen 5 5600X
+- AMD Ryzen 5 5600G
+- AMD Ryzen 5 5600GT
 - AMD Ryzen 7 5700X
 - AMD Ryzen 7 5800X
 - AMD Ryzen 7 5800X3D
-- AMD Ryzen 9 5900X
-- AMD Ryzen 9 5950X
+
+**AM5 Platformu:**
+- AMD Ryzen 5 7600
+- AMD Ryzen 5 7600X
+- AMD Ryzen 5 9600X
 
 ### Desteklenen Ekran Kartları (GPU)
 
