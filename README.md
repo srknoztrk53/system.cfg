@@ -1,4 +1,4 @@
-### Desteklenen İşlemciler (CPU)
+### İşlemciler (CPU)
 
 **AM4 Platformu:**
 - AMD Ryzen 5 3600
@@ -19,7 +19,7 @@
 - AMD Ryzen 5 7600X
 - AMD Ryzen 5 9600X
 
-### Desteklenen Ekran Kartları (GPU)
+### Ekran Kartları (GPU)
 
 **NVIDIA:**
 - NVIDIA GeForce GTX 1080 Ti
