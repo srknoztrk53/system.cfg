@@ -1,4 +1,3 @@
-
 AMD Ryzen 3 3100
 AMD Ryzen 5 3600
 AMD Ryzen 7 3700X
